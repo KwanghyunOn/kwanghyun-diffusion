@@ -1,0 +1,9 @@
+[submodule "guided-diffusion"]
+	path = guided-diffusion
+	url = https://github.com/openai/guided-diffusion.git
+[submodule "k-diffusion"]
+	path = k-diffusion
+	url = https://github.com/crowsonkb/k-diffusion.git
+[submodule "dpm-solver"]
+	path = dpm-solver
+	url = https://github.com/LuChengTHU/dpm-solver.git
